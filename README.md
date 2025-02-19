@@ -1,6 +1,6 @@
-How to work with lists and dictionaries in Python to manage a produce inventory system.
+# How to work with lists and dictionaries in Python to manage a produce inventory system.
 
-What You Learned
+What I Learned
   1. Lists and Dictionaries: How to create and manipulate them.
   2. Looping through Data Structures: Using for loops to iterate over lists of dictionaries.
   3. Modifying Dictionary Data: Updating values and adding/removing keys dynamically.
